@@ -99,7 +99,7 @@ a:hover {
   font-weight: bold;
   margin-top: 70px;
   position: relative;
-  display: inline-block;
+/*   display: inline-block; */
 }
 
 .main_head_text_play::before {
